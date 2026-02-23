@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100">
+<defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#333" /></marker></defs>
+<rect x="0" y="0" width="1800" height="1100" fill="white" />
+<rect x="200" y="80" width="900" height="740" fill="none" stroke="#777" stroke-dasharray="6,4" />
+<text x="210" y="96" font-family="Arial" font-size="12" fill="#555">Backend API Container (Microservices)</text>
+<rect x="240" y="140" width="220" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="350.0" y="179.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">API Controllers</text>
+<rect x="240" y="230" width="220" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="350.0" y="269.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Auth/RBAC</text>
+<rect x="240" y="320" width="220" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="350.0" y="359.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Assessment Service</text>
+<rect x="240" y="410" width="220" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="350.0" y="449.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Plan Service</text>
+<rect x="240" y="500" width="220" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="350.0" y="539.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Training Service</text>
+<rect x="240" y="590" width="220" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="350.0" y="629.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Evaluation Service</text>
+<rect x="520" y="230" width="220" height="70" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="630.0" y="269.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Hint Bot Component</text>
+<rect x="520" y="320" width="220" height="70" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="630.0" y="359.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">File/Artifact Service</text>
+<rect x="520" y="410" width="220" height="70" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="630.0" y="449.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Event Publisher</text>
+<rect x="520" y="500" width="220" height="70" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="630.0" y="539.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Audit Logger</text>
+<rect x="520" y="590" width="220" height="70" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="630.0" y="629.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Data Access Layer</text>
+<rect x="1160" y="180" width="200" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1260.0" y="219.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Postgres</text>
+<rect x="1160" y="270" width="200" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1260.0" y="309.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Redis</text>
+<rect x="1160" y="360" width="200" height="70" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1260.0" y="399.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Object Storage</text>
+<rect x="1160" y="450" width="200" height="70" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="1260.0" y="489.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">LLM Gateway</text>
+<rect x="1160" y="540" width="200" height="70" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="1260.0" y="579.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Orchestrator</text>
+<line x1="460" y1="175" x2="520" y2="265" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="460" y1="175" x2="520" y2="625" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="460" y1="265" x2="520" y2="625" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="460" y1="355" x2="520" y2="625" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="460" y1="445" x2="520" y2="625" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="460" y1="535" x2="520" y2="625" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="460" y1="625" x2="520" y2="625" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="740" y1="265" x2="1160" y2="485" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="740" y1="355" x2="1160" y2="395" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="740" y1="445" x2="1160" y2="575" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="740" y1="625" x2="1160" y2="215" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="740" y1="625" x2="1160" y2="305" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+</svg>

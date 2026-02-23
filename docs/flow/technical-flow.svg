@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200">
+<defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#333" /></marker></defs>
+<rect x="0" y="0" width="2000" height="1200" fill="white" />
+<rect x="120" y="260" width="180" height="80" rx="10" ry="10" fill="#eef7ff" stroke="#333" />
+<text x="210.0" y="304.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Client</text>
+<rect x="340" y="260" width="200" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="440.0" y="304.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">API Gateway</text>
+<rect x="580" y="260" width="200" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="680.0" y="304.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Auth/RBAC</text>
+<rect x="820" y="260" width="220" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="930.0" y="304.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Service Router</text>
+<rect x="1080" y="260" width="220" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1190.0" y="304.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Domain Service</text>
+<rect x="1340" y="260" width="220" height="80" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="1450.0" y="304.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Queue/Worker</text>
+<rect x="1600" y="260" width="220" height="80" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="1710.0" y="304.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">LLM Gateway</text>
+<rect x="1080" y="420" width="220" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1190.0" y="464.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Postgres</text>
+<rect x="1340" y="420" width="220" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1450.0" y="464.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Object Storage</text>
+<rect x="1600" y="420" width="220" height="80" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="1710.0" y="464.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Sandbox Runner</text>
+<line x1="300" y1="300" x2="340" y2="300" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="540" y1="300" x2="580" y2="300" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="780" y1="300" x2="820" y2="300" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="1040" y1="300" x2="1080" y2="300" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="1300" y1="300" x2="1340" y2="300" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="1560" y1="300" x2="1600" y2="300" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="1190" y1="340" x2="1190" y2="420" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="1450" y1="340" x2="1450" y2="420" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="1710" y1="340" x2="1710" y2="420" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+</svg>

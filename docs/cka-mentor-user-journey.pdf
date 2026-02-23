@@ -1,0 +1,280 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 6 0 R >> >> /Contents 7 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 6 0 R >> >> /Contents 8 0 R >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 6 0 R >> >> /Contents 9 0 R >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+7 0 obj
+<< /Length 2566 >>
+stream
+BT
+/F1 12 Tf
+54 720 Td
+(CKA Mentor AI - User Journey) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Purpose) Tj
+0 -14 Td
+(Define the end-to-end experience for a CKA candidate \(trainee\) and the human reviewer) Tj
+0 -14 Td
+(\(trainer\), from onboarding to exam readiness and post-exam feedback.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Personas) Tj
+0 -14 Td
+(- Trainee: CKA candidate focused on hands-on Kubernetes proficiency and a strong exam) Tj
+0 -14 Td
+(  result.) Tj
+0 -14 Td
+(- Trainer: Human reviewer responsible for plan approval \(two-phase: consolidated AI) Tj
+0 -14 Td
+(  gatepass via diffed model outputs, then final human approval\), per-module review, live) Tj
+0 -14 Td
+(  demos, and readiness sign-off.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Journey At a Glance) Tj
+0 -14 Td
+(1. Onboarding and goal setup) Tj
+0 -14 Td
+(2. Baseline assessment \(self-declaration, scenario spot-checks, hands-on diagnostic\)) Tj
+0 -14 Td
+(3. Plan generation and trainer approval) Tj
+0 -14 Td
+(4. Sprint cycle with module execution and Hint Bot) Tj
+0 -14 Td
+(5. Per-module review \(AI pre-check + trainer review\)) Tj
+0 -14 Td
+(6. Sprint review and plan adaptation) Tj
+0 -14 Td
+(7. Mock exams and capstone) Tj
+0 -14 Td
+(8. Trainer readiness sign-off) Tj
+0 -14 Td
+(9. Exam scheduling and post-exam report) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Detailed Journey - Trainee) Tj
+0 -14 Td
+(1. Onboarding) Tj
+0 -14 Td
+(   - Creates profile, sets target date, and declares weekly time budget.) Tj
+0 -14 Td
+(   - Selects proficiency band: beginner, intermediate, or advanced.) Tj
+0 -14 Td
+(   - Uploads any helper file/script intended for practice.) Tj
+0 -14 Td
+(   - System validates file and command compatibility with exam constraints; unsupported) Tj
+0 -14 Td
+(     patterns are flagged.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(2. Baseline Assessment) Tj
+0 -14 Td
+(   - Self-declaration across CKA domains.) Tj
+0 -14 Td
+(   - Scenario spot-checks for any domain rated hands-on or above.) Tj
+0 -14 Td
+(   - Short hands-on diagnostic tasks on a sandbox cluster.) Tj
+0 -14 Td
+(   - Receives competency radar chart \(no raw scores shown\).) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(3. Training Plan) Tj
+0 -14 Td
+(   - Receives sprint-based plan tailored to baseline and time budget.) Tj
+0 -14 Td
+(   - Sees objectives, resources, hands-on tasks, and deliverables per module.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(4. Module Execution \(Repeats\)) Tj
+0 -14 Td
+(   - Reviews theory resources \(short and focused\).) Tj
+0 -14 Td
+(   - Completes hands-on tasks and submits deliverables.) Tj
+0 -14 Td
+(   - Uses Hint Bot in Socratic mode \(no solutions given\).) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 2351 >>
+stream
+BT
+/F1 12 Tf
+54 720 Td
+() Tj
+0 -14 Td
+(5. Per-Module Review) Tj
+0 -14 Td
+(   - AI performs completeness check and flags obvious issues.) Tj
+0 -14 Td
+(   - Trainer reviews every module and requests revisions if needed.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(6. Sprint Review) Tj
+0 -14 Td
+(   - Receives summary of strengths, gaps, and progress deltas.) Tj
+0 -14 Td
+(   - Next sprint is adapted based on performance and struggle areas.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(7. Readiness Gates) Tj
+0 -14 Td
+(   - Completes two full-length timed mocks that meet the internal quality threshold.) Tj
+0 -14 Td
+(   - Passes capstone challenge \(multi-domain scenario\).) Tj
+0 -14 Td
+(   - Completes live demo with trainer using rubric.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(8. Exam Scheduling) Tj
+0 -14 Td
+(   - Exam scheduling is unlocked only after readiness gates are met.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(9. Post-Exam) Tj
+0 -14 Td
+(   - Receives final report and competency delta summary.) Tj
+0 -14 Td
+(   - Trainer provides final feedback and next-step recommendations.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Detailed Journey - Trainer) Tj
+0 -14 Td
+(1. Intake and Baseline Review) Tj
+0 -14 Td
+(   - Reviews baseline assessment and raw responses.) Tj
+0 -14 Td
+(   - Adjusts competency profile with justification if needed.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(2. Plan Approval \(Two-Phase\)) Tj
+0 -14 Td
+(   - Consolidated AI gatepass via diffed model outputs.) Tj
+0 -14 Td
+(   - Final human approval with edits if needed.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(3. Per-Module Review) Tj
+0 -14 Td
+(   - Reviews every module deliverable and approves or requests revisions.) Tj
+0 -14 Td
+(   - Monitors alerts for stuck trainees or excessive hint usage.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(4. Sprint Review Verification) Tj
+0 -14 Td
+(   - Confirms sprint summary and approves plan adjustments.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(5. Final Evaluation) Tj
+0 -14 Td
+(   - Reviews capstone deliverable and live demo performance.) Tj
+0 -14 Td
+(   - Signs off readiness once all gates are met.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Key Moments of Truth) Tj
+0 -14 Td
+(- Baseline accuracy: self-rating vs spot-check performance.) Tj
+0 -14 Td
+(- Deliverable quality: production readiness, structure, and correctness.) Tj
+0 -14 Td
+(- Hint usage: healthy guidance vs over-reliance.) Tj
+0 -14 Td
+(- Mock scores: consistency under timed conditions.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 946 >>
+stream
+BT
+/F1 12 Tf
+54 720 Td
+(- Trainer rubric: real-world execution and communication.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Feedback Style) Tj
+0 -14 Td
+(- Direct and blunt feedback is allowed and encouraged.) Tj
+0 -14 Td
+(- Feedback must be actionable and tied to evidence from deliverables and rubrics.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Guardrails \(Anti-Shortcut\)) Tj
+0 -14 Td
+(- Hint Bot never provides full solutions or step-by-step exam answers.) Tj
+0 -14 Td
+(- Readiness gates must be met before exam scheduling is allowed.) Tj
+0 -14 Td
+(- Trainer review required on every module.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Artifacts Produced) Tj
+0 -14 Td
+(- Competency profile and radar chart) Tj
+0 -14 Td
+(- Sprint plans and module deliverables) Tj
+0 -14 Td
+(- Module evaluation notes and revision history) Tj
+0 -14 Td
+(- Sprint review summaries) Tj
+0 -14 Td
+(- Mock exam scores and capstone evaluation) Tj
+0 -14 Td
+(- Final readiness report and trainer sign-off) Tj
+ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000253 00000 n 
+0000000379 00000 n 
+0000000505 00000 n 
+0000000575 00000 n 
+0000003193 00000 n 
+0000005596 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+6593
+%%EOF

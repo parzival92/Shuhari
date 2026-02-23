@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200">
+<defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#333" /></marker></defs>
+<rect x="0" y="0" width="2000" height="1200" fill="white" />
+<rect x="200" y="200" width="220" height="90" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="310.0" y="242.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">C1</text>
+<text x="310.0" y="256.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Assessment</text>
+<rect x="480" y="200" width="220" height="90" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="590.0" y="242.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">C2</text>
+<text x="590.0" y="256.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Plan</text>
+<rect x="760" y="200" width="220" height="90" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="870.0" y="242.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">C3</text>
+<text x="870.0" y="256.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Training</text>
+<rect x="1040" y="200" width="220" height="90" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1150.0" y="242.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">C4</text>
+<text x="1150.0" y="256.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Evaluation</text>
+<rect x="200" y="380" width="220" height="90" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="310.0" y="422.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Memory</text>
+<text x="310.0" y="436.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">System</text>
+<rect x="480" y="380" width="220" height="90" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="590.0" y="429.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Orchestrator</text>
+<rect x="760" y="380" width="220" height="90" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="870.0" y="422.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">LLM</text>
+<text x="870.0" y="436.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Gateway</text>
+<rect x="1040" y="380" width="220" height="90" rx="10" ry="10" fill="#fff3e6" stroke="#333" />
+<text x="1150.0" y="422.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Trainer</text>
+<text x="1150.0" y="436.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Review</text>
+<line x1="420" y1="245" x2="480" y2="245" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="700" y1="245" x2="760" y2="245" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="980" y1="245" x2="1040" y2="245" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="310" y1="290" x2="310" y2="380" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="590" y1="290" x2="590" y2="380" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="870" y1="290" x2="870" y2="380" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<line x1="1150" y1="290" x2="1150" y2="380" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+</svg>

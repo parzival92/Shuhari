@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200">
+<defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#333" /></marker></defs>
+<rect x="0" y="0" width="2000" height="1200" fill="white" />
+<rect x="100" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="180.0" y="294.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Onboarding</text>
+<line x1="260" y1="290.0" x2="290" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="290" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="370.0" y="287.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Baseline</text>
+<text x="370.0" y="301.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Assessment</text>
+<line x1="450" y1="290.0" x2="480" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="480" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="560.0" y="287.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Plan</text>
+<text x="560.0" y="301.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Generation</text>
+<line x1="640" y1="290.0" x2="670" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="670" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="750.0" y="287.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Human</text>
+<text x="750.0" y="301.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Review</text>
+<line x1="830" y1="290.0" x2="860" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="860" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="940.0" y="287.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Sprint</text>
+<text x="940.0" y="301.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Modules</text>
+<line x1="1020" y1="290.0" x2="1050" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="1050" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1130.0" y="287.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Deliverable</text>
+<text x="1130.0" y="301.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Review</text>
+<line x1="1210" y1="290.0" x2="1240" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="1240" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1320.0" y="287.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Sprint</text>
+<text x="1320.0" y="301.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Review</text>
+<line x1="1400" y1="290.0" x2="1430" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="1430" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1510.0" y="287.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Readiness</text>
+<text x="1510.0" y="301.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Gates</text>
+<line x1="1590" y1="290.0" x2="1620" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="1620" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1700.0" y="294.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Exam</text>
+<line x1="1780" y1="290.0" x2="1810" y2="290.0" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)" />
+<rect x="1810" y="250" width="160" height="80" rx="10" ry="10" fill="#e8f4ff" stroke="#333" />
+<text x="1890.0" y="287.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Post-Exam</text>
+<text x="1890.0" y="301.0" font-family="Arial" font-size="12" text-anchor="middle" fill="#111">Report</text>
+</svg>
